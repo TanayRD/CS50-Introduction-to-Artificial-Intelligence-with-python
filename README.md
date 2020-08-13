@@ -3,8 +3,8 @@ The aim of this repository is to keep track of all the projects of online course
 
 ## Projects
 1. Project 0 :
- * Degree
- * Tic-Tac-Toe
+    * Degree
+    * Tic-Tac-Toe
 
 2. Project 1 :
- * Knights
+    * Knights
